@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.degordian.com	TRUE	/	FALSE	1999999999	__cfduid	d265140932a7b2c3a4d106dd7658b37931490655453
+

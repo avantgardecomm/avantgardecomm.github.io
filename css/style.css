@@ -175,7 +175,7 @@ blockquote.testimonial_blockquote p {
 h1, h2, h3,h4,h5,h6 { font-family: 'Raleway', sans-serif; color:#555; }
 h1 {
 	font-weight: 700;
-	font-size: 130px;
+	font-size: 85px;
 	line-height:100px;
 	position: relative;
 	letter-spacing:-3px!important;
@@ -191,7 +191,7 @@ h6 { font-size: 16px; }
 
 .lead {
 	font-family:'Raleway', sans-serif; 
-	font-size: 36px;
+	font-size: 30px;
 	font-weight: 300;
 	line-height: 45px;
 	margin-bottom: 45px;
