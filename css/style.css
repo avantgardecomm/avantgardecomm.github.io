@@ -1498,3 +1498,32 @@ h1  { font-size: 60px!important; line-height:55px; letter-spacing:-1px!important
 @media only screen and (width: 1024px) {
 #content.info{ margin-top:-80px!important; }
 }
+/*body {
+  text-align: center;
+  padding: 70px 50px;
+  background: #0D1A29;
+  font-family: "Helvetica Neue", "Open Sans", helvetica, arial, sans-serif;  
+}*/
+
+
+#timer {
+  font-size: 3em;
+  font-weight: 100;
+  color: white;
+  text-align: center;
+  padding: 70px 50px;
+  background: #0D1A29;
+  text-shadow: 0 0 20px #48C8FF;
+}
+#timer div {
+  display: inline-block;
+  min-width: 90px;
+}
+#timer div span {
+  color: #B1CDF1;
+  display: block;
+  font-size: .35em;
+  font-weight: 400;
+}
+
+
