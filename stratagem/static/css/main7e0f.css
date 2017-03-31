@@ -8546,12 +8546,12 @@ body {
     display: block;
     font-family: 'proxima-nova';
     font-weight: 300;
-    font-size: 17px;
+    font-size: 20px;
     line-height: 1.8em;
     color: #797979;
     text-align: left;
-    padding-right: 20%;
-    padding-bottom: 110px
+    padding-right: 1%;
+    padding-bottom: 50px
 }
 
 .views-expertise-wrapper.second .sign-up-arrow,
