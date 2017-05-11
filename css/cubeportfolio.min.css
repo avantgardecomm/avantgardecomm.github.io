@@ -46,7 +46,13 @@
     top: 0;
     left: 0;
 }
-.cbp img { display: block; }
+.cbp img { 
+    display: block; 
+    border: 0;
+    width: 100%;
+    height: auto;
+
+}
 .cbp-loading,
 .cbp-loading *,
 .cbp-no-transition .cbp-item {
@@ -642,7 +648,7 @@ background:transparent!important;
 }
 
 .cbp-caption-pushTop .cbp-caption-activeWrap {
-    bottom: -60%;
+    bottom: -80%;
 
     /* @editable properties */
     background: none repeat scroll 0 0 #282727;
